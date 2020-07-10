@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_sharego"
+        />
+
+    <item
+        android:id="@+id/Rate"
+        android:title="@string/rating"
+        android:icon="@drawable/ic_rate"
+        />
+    <item
+        android:id="@+id/contactus"
+        android:title="@string/contact"
+        android:icon="@drawable/ic_contactus"
+        />
+    <item
+        android:id="@+id/Aboutus"
+        android:title="@string/about"
+        android:icon="@drawable/ic_social"
+        />
+
+</menu>
